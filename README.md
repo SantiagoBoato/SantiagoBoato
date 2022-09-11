@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 Actualmente aprendiendo desarrollo web.<br>Busco expandir mis habilidades.<br>Acepto ideas y recomendaciones.<br>No estuvo en mis planes aprender a programar, solo ocurrió.<br>
 
 
